@@ -5,3 +5,5 @@ Key info:
  - 2nd Year Computer Science Major at Cal Poly SLO
  - 19 years old
  - from San Diego, CA
+
+ [Visit it here!] (https://github.com/jeremiahliao/jeremiahliao.github.io)
