@@ -6,4 +6,4 @@ Key info:
  - 19 years old
  - from San Diego, CA
 
- [Visit it here!] (https://github.com/jeremiahliao/jeremiahliao.github.io)
+ [Visit it here!] (https://jeremiahliao.github.io)
